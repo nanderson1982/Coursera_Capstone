@@ -1,5 +1,2 @@
 # Data-Science 
-List of Files for Applied Data Science Capstone: /n
-1-
-2- Segmenting and Clustering Neighborhoods in Toronto v.2
-    - This is the assigment for week 2.
+Files for Applied Data Science Capstone
